@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.main {
+    margin: 5px;
+    margin-top: 100px;
+    
+}
+
+.main__text {
+    text-align: justify;
+    padding: 30px 10px;
+}
+
+.nav {
+    background-color: green;
+    position: fixed;
+    width: 100vw;
+    top: 0;
+}
+
+.nav__text {
+    text-align: justify;
+    padding: 10px 10px;
+    color: white;
+}
+
+.box {
+    /* border: 2px solid #808080; */
+    /* height: 500px; */
+    width: 25%;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    padding: 10px;
+}
+
+.section__box {
+    overflow: hidden;
+}
+
+img {
+    width: 70%;
+    padding-top: 10px;
+}
+
+.box__text {
+    text-align: justify;
+}

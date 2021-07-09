@@ -1,0 +1,15 @@
+.articulo {
+    /* border: 1px solid gray; */
+    position: relative;
+    display: block;
+}
+
+
+
+.etiqueta {
+    position:absolute;
+    width: 10%;
+    /* border: 1px solid red; */
+    left: 30px;
+    top: 43px;
+}
